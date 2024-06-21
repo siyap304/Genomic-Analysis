@@ -26,4 +26,4 @@ The Smith-Waterman Algorithm is applied to the sliced reference genome and the r
 
 __This is the most time consuming step of the read mapping algorithm__
 
-## Pairwise Alignment - The Most Time Consuming Step:
+To understand the algorithm better, refer - [Genomic Analysis](https://docs.google.com/presentation/d/1WNEI7ogoDo99aFdzWfwIHpaqWJ4rBFYWQMIi8RKDLJ8/edit?usp=sharing)
